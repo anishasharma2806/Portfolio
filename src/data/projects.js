@@ -35,7 +35,7 @@ export default [
     type:"normal",
     tech:["React"],
     image:"/screenshots/Cake1.png",
-   
+    video:"https://z0c3lrhg6olnwbdx.public.blob.vercel-storage.com/cake_shop.mp4",
   },
   {
     title:"Memory Game",
