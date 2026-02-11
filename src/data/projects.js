@@ -28,7 +28,7 @@ export default [
     tech:["React"],
     image:"/screenshots/wiselife1.png",
     video:"https://z0c3lrhg6olnwbdx.public.blob.vercel-storage.com/wiselife.mp4",
-    
+    live:"https://wise-life-p45.vercel.app/"
   },
   {
     title:"CakeShop",
