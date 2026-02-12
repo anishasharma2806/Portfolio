@@ -8,19 +8,21 @@ export default [
    
   },
   {
-    title:"Cygnus Trading Platform",
+    title:"Oprate Trading Platform",
     type:"client",
     tech:["React"],
     image:"/screenshots/Oprate1.png",
     video:"https://z0c3lrhg6olnwbdx.public.blob.vercel-storage.com/Oprate.mp4",
+    company: "Cygnus Hedged Strategies Pvt. Ltd."
   },
   {
-    title:"COSMIC365",
+    title:"SoftwareLoop",
     type:"client",
     tech:["SEO"],
     image:"/screenshots/cosmic.png",
     video:"https://z0c3lrhg6olnwbdx.public.blob.vercel-storage.com/cosmic.mp4",
-    live:"https://www.softwareloop.shop/"
+    live:"https://www.softwareloop.shop/",
+    company: "COSMIC365"
   },
   {
     title:"WiseLife",
@@ -28,7 +30,8 @@ export default [
     tech:["React"],
     image:"/screenshots/wiselife1.png",
     video:"https://z0c3lrhg6olnwbdx.public.blob.vercel-storage.com/wiselife.mp4",
-    live:"https://wise-life-p45.vercel.app/"
+    live:"https://wise-life-p45.vercel.app/",
+    company: "WordLane Tech"
   },
   {
     title:"CakeShop",
