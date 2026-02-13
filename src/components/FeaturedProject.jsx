@@ -35,9 +35,11 @@ export default function FeaturedProject({ project }) {
           }
         </div>
 
-        <div>
+        <div className="featured-content">
           <h2>{project.title}</h2>
-
+          {project.company && (
+            <p className="company">{project.company}</p>
+            )}
           <div className="tech-row">
             {project.tech.map(t => (
               <span key={t} className="tag">{t}</span>

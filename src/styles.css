@@ -14,6 +14,34 @@
 /* ======================
    RESET
 ====================== */
+.featured-content{
+  display:flex;
+  flex-direction:column;
+}
+
+/* nicer company label */
+.company{
+  font-size:25px;
+  opacity:.7;
+  font-weight:500;
+  margin-bottom:40px;
+  font-family:'Playfair Display',serif;
+}
+
+/* tech stack spacing */
+.tech-row{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+}
+
+/* buttons spacing */
+.actions{
+  display:flex;
+  gap:12px;
+  margin-top:4px;
+}
+
 
 *{
   margin:0;
