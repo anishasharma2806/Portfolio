@@ -12,8 +12,8 @@
 
     const resume = () => {
       const a = document.createElement("a")
-      a.href = "/Anisha_Sharma_Resume_Web_Development.pdf"
-      a.download = "Anisha_Sharma_Resume_Web_Development.pdf"
+      a.href = "/resume.pdf"
+      a.download = "resume.pdf"
       a.click()
     }
 
